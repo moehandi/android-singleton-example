@@ -1,0 +1,61 @@
+# Built application files
+/build
+*.apk
+*.ap_
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# gradle generated files
+.gradle/
+
+# Signing files
+.signing
+
+# Crashlytics configurations
+com_crashlytics_export_strings.xml
+
+# Android studio navigation editor temp files
+.navigation/
+
+# Android studio capture folder
+captures/
+
+# Log Files
+*.log
+
+# Generated files
+bin/
+gen/
+
+# Java class files
+*.class
+
+# Files for the Dalvik VM
+*.dex
+
+# User-specific configurations
+.idea/libraries/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+*.iml
+
+# Os-specific files
+.DS_Store
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+# Linux save clutter
+*~ 
+
